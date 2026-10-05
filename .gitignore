@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.next/
+.vinext/
+.wrangler/
+.sites-runtime/
+.env*
+*.sqlite3
+*.db
+*.tsbuildinfo
+Career_Hub_Backup.json
+private/
